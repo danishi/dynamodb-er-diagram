@@ -2,6 +2,10 @@
 ## What's this?
 One idea for drawing an ER diagram in DynamoDB.  
 
+Give a ⭐️ if you like this diagram!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
+
 ## ER Diagram
 It is drawn using [Draw.io](https://www.draw.io/).
 
