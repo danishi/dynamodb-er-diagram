@@ -1,4 +1,7 @@
 # DynamoDB ER Diagram
+![MIT](https://img.shields.io/github/license/danishi/dynamodb-er-diagram)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 ## What's this?
 One idea for drawing an ER diagram in DynamoDB.  
 
